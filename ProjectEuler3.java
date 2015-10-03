@@ -17,7 +17,7 @@ public class ProjectEuler3 {
 				}
 				if (isPrime) {
 					largestPrime = i;
-					System.out.println("Factor: "+i);
+					//System.out.println("Factor: "+i);
 				}
 			}
 		}
